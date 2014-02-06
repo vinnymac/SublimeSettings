@@ -1,0 +1,30 @@
+{
+  "color_scheme": "Packages/User/RailsCastsColorScheme (SL).tmTheme",
+  "draw_white_space": "all",
+  "font_face": "DejaVu Sans Mono",
+  "font_options":
+  [
+    "subpixel_antialias"
+  ],
+  "font_size": 9,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "draw_minimap_border": true, // Draws a border around the minimap
+  "tab_size": 2, // Makes your tab size 2 indentations or spaces
+  "translate_tabs_to_spaces": true, // Makes all tab indentations spaces instead
+  "caret_style" : "phase", // Makes the caret fade in and out instead of blink
+  "highlight_line" : true, // Highlights the current line you are on
+  "line_padding_bottom": 1, // Adds a pixel of space to the bottom of each line
+  "line_padding_top": 1, // Adds a pixel of space to the top of each line
+  "margin": -1, // Removes some unnecessary margin
+  "fade_fold_buttons": false,
+  "bold_folder_labels": true, // Makes the folders in the navigator bold
+  "shift_tab_unindent": true, // When you type SHIFT-TAB it unindents that text
+  "trim_trailing_white_space_on_save": true, // Removes unnecessary whitespace after you save the document
+  "rulers": // Adds a ruler so you can see how many characters your line is easily
+  [
+    160
+  ],
+}
