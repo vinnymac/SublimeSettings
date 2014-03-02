@@ -27,5 +27,5 @@
   [
     160
   ],
-	"folder_exclude_patterns": [ ".svn", ".git", ".hg", "CVS", "tmp"] // Excludes these folders
+  "folder_exclude_patterns": [ ".svn", ".git", ".hg", "CVS", "tmp"] // Excludes these folders
 }
